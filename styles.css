@@ -40,10 +40,6 @@ a:hover {
   padding: 0;
 }
 
-.nav .name:hover {
-  color: #ff9904;
-}
-
 .nav .name {
   display: block;
   margin-right: auto;
@@ -53,7 +49,7 @@ a:hover {
   padding: 5px 10px 10px 10px;
 }
 .nav a {
-  transition: all .5s;
+  transition: all 0.5s;
 }
 .nav a:hover {
   color: white;
